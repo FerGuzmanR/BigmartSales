@@ -1,1 +1,7 @@
 This is a project based on a competition. The goal is to predict the outlet sale's price of some products at Bigmart Stores.
+
+There is a file named train_data with some data to train the model, and another called test_data, from which articles I need to predict the prices.
+
+First, I did the data exploration and preprocessing, and then look for the model that fits the best.
+
+
